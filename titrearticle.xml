@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="1.0" type="plugin" group="Content">
+	<name>Titre article</name>
+	<author>Sebastien LHUILLIER</author>
+	<creationDate>Novembre 2023</creationDate>
+	<copyright>Sébastien LHUILLIER</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<authorEmail>sebastien.lhuillier+joomla@gmail.com</authorEmail>
+	<authorUrl>www.sebastien-lhuillier.com</authorUrl>
+	<version>1.0</version>
+	
+	<description>Extrait le titre de l'article (pour les alt des images) via {titre}</description>
+	<files>
+		<filename plugin="titrearticle">titrearticle.php</filename>
+		<filename>titrearticle.xml</filename>			
+	</files>
+</extension>
